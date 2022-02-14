@@ -14,6 +14,9 @@ MATLAB版本为R2020b，后期可能会更新最新版本。
 |2|LQR_Controller_Repear_Sequence.slx|8 LQR控制器|
 |3|Linear_Controller_Trajectory_Tracking.slx|8.5 线性控制器设计-轨迹跟踪|
 |4|State_Observer.slx|9 状态控制器设计|
+|5|Nonlinear_System_Stability_Design.slx|14 非线性系统稳定性设计|
+|6|Nonlinear_Backstepping_Controller_Design.slx|15 非线性反馈控制器设计|
+|7|Nonlinear_Robust_Controller_Design.slx|16 非线性鲁棒控制器设计|
 
 ## 后记
 
